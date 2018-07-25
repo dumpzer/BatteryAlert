@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Alert</string>
+    <string name="onoff">ON/OFF</string>
+</resources>
