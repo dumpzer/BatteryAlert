@@ -80,7 +80,7 @@ public class StartStopActivity extends AppCompatActivity {
             nm.notify(0, not75);
 
 
-        }else if(batLevel == 58){
+        }else if(batLevel == 50){
 
             Toast.makeText( this, "fifty-fifty", Toast.LENGTH_SHORT ).show();
             Notification not50 = new Notification.Builder( StartStopActivity.this )
